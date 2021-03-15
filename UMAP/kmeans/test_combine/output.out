@@ -1,0 +1,10 @@
+Tue Nov 24 11:59:42 PST 2020
+tsne_df=           X          Y  ... PCBA891  PCBA938
+0  8.918024   9.703697  ...     NaN      NaN
+1  8.311484  11.298470  ...     NaN      NaN
+2  8.695555   9.305849  ...     NaN      NaN
+3  8.684567   9.167717  ...     NaN      NaN
+4  9.764834  11.944808  ...     NaN      NaN
+
+[5 rows x 29 columns]
+Tue Nov 24 12:00:31 PST 2020
