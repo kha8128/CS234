@@ -1,0 +1,22 @@
+Sun Nov  1 11:31:42 PST 2020
+shape= (1012, 27)
+df=    PCBA1030  ...                                             SMILES
+0       0.0  ...    O=C(NC(Nc1ccc(F)cc1)(C(F)(F)F)C(F)(F)F)c1cccnc1
+1       0.0  ...  CCC1CN2CCC1CC2[C@@H](NC(=S)Nc1cc(C(F)(F)F)cc(C...
+2       0.0  ...        CC(NC(=O)NNC(=O)c1ccncc1)(C(F)(F)F)C(F)(F)F
+3       0.0  ...            CCC(NC(=O)NCc1ccccc1)(C(F)(F)F)C(F)(F)F
+4       NaN  ...  OC(c1ccccc1)(c1nc(/C=C/c2ccc(C(F)(F)F)cc2)cs1)...
+
+[5 rows x 27 columns]
+rslt_df= Empty DataFrame
+Columns: [PCBA1030, PCBA1461, PCBA1468, PCBA1688, PCBA2546, PCBA2551, PCBA504332, PCBA504339, PCBA504444, PCBA504467, PCBA540276, PCBA588855, PCBA624288, PCBA624296, PCBA624417, PCBA651635, PCBA686970, PCBA686978, PCBA686979, PCBA720504, PCBA720579, PCBA720580, PCBA883, PCBA884, PCBA891, PCBA938, SMILES]
+Index: []
+tsne_df=            X          Y  PCBA1030  PCBA1461  ...  PCBA883  PCBA884  PCBA891  PCBA938
+0  17.827965 -33.912018       0.0       0.0  ...      NaN      NaN      NaN      NaN
+1 -18.094204   8.867186       0.0       NaN  ...      NaN      NaN      NaN      NaN
+2  26.765438 -31.192270       0.0       0.0  ...      NaN      NaN      NaN      NaN
+3  29.173149 -30.660185       0.0       0.0  ...      NaN      NaN      NaN      NaN
+4   1.660733  15.600847       NaN       NaN  ...      NaN      NaN      NaN      NaN
+
+[5 rows x 28 columns]
+Sun Nov  1 11:32:11 PST 2020
